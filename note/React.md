@@ -1,4 +1,4 @@
-# React & JSX
+# React
 
 ## 什么是react
 
@@ -15,3 +15,16 @@ JSX | Javascript语法扩展
 组件 | 通过React构建组件, 是的代码更加容易得到复用
 声明式设计 | React采用声明式范式, 可以轻松描述应用
 单向响应的数据流 | React实现了单向响应的数据流, 从而减少了重复代码
+
+## Create React App
+
+> [Create React App](https://github.com/facebook/create-react-app), 用于创建新的`单页应用`的方式  
+> 安装 yarn create-react-app -g
+
+```cmd
+npx create-react-app Name
+  or
+yarn create-react-app Name
+```
+
+`注意: ` npx是 npm 5.2+ 附带的 package 运行工具
