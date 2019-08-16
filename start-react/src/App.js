@@ -136,6 +136,7 @@ class Welcome extends Component {
     )
   }
 }
+
 class App extends Component {
   render(){
     function moreWel(){
@@ -152,4 +153,5 @@ class App extends Component {
     )
   }
 }
+
 export default App;
